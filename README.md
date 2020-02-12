@@ -1,4 +1,4 @@
-# Stackery Image Processing Demo - Python3
+# Stackery Image Processing Demo - Python
 
 This is a sample template for a serverless AWS Lambda application, written in Python.
 
