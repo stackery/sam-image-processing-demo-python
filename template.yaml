@@ -17,7 +17,7 @@ Resources:
         - ResourceName: imageProcessor
       CodeUri: src/imageProcessor
       Handler: handler.handler
-      Runtime: python3.7
+      Runtime: python3.8
       MemorySize: 3008
       Timeout: 30
       Tracing: Active
